@@ -29,6 +29,10 @@ Self charging, autonomous docking
 - https://www.hackster.io/mattvella/universal-self-charging-for-mobile-robots-d40cd7
 - https://www.instructables.com/Roamer-the-Self-Charging-Companion-Robot/#
 
+
+
+drone, fpv
+
 simulation, ml/rl training 
 
 
