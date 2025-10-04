@@ -6,11 +6,15 @@ Sorry things are not organized yet …
 GitHub repos: popular github repos, including real robots, simulation, deep learning, etc.
 
 
-robo car
+robo car, rc/remote control car, raspberry pi
 - https://www.reddit.com/r/robotics/s/uAwW5oGM2D
 Raspberry Pi 4-based rover with LLM/speech/voice recognition
 - https://www.instructables.com/Raspberry-Pi-Robot-Car/
 Raspberry Pi Robot Car
+- https://www.raspberrypi.com/news/raspberry-pi-pico-w-taught-this-car-to-avoid-objects/
+- https://www.hanselman.com/blog/building-a-raspberry-pi-car-robot-with-wifi-and-video
+- https://projects.raspberrypi.org/en/projects/lego-robot-car
+- https://m.youtube.com/watch?v=RQ6QNuFFB4w
 
 
 
