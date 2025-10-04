@@ -5,6 +5,10 @@ Sorry things are not organized yet …
 
 GitHub repos: popular github repos, including real robots, simulation, deep learning, etc.
 
+webcam/ip camera
+- robo: pzt camera
+- ip camera on the market: it had to support rtsp/onvif so that video stream can be pushed to a pc
+- diy ip camera: usb camera, phone soc/raspberry pi, wifi/ip device 
 
 robo car, rc/remote control car, raspberry pi
 - robo car with a phone replacing raspberry, cf openbot 
